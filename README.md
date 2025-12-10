@@ -198,7 +198,7 @@ We welcome contributions! Please follow these steps:
 - Update documentation for API changes
 - Ensure all tests pass before submitting PR
 
-## 👨‍💻 Authors
+## 👨‍💻 Author
 
 - **Oladotun Olawale** - *Initial work* - [GitHub](https://github.com/Dannywhilz001)
 
